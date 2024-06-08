@@ -1,4 +1,4 @@
-- 👋 Hi everyone, I'm @DataScientist ENTHUSIAST- Mohit Singh Gulleria  
+- 👋 Hi everyone, I'm @DataScientist enthusiast- Mohit Singh Gulleria  
 - 👀 I'm fascinated by the world of data science and what it can achieve.
 - 🌱 Currently, I'm actively learning and expanding my knowledge in this field.
 - 💞️ I'm eager to collaborate on interesting data-driven projects ! ️
